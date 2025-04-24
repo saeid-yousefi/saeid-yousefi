@@ -9,7 +9,7 @@
 
 I'm a senior Android developer with over a decade of experience building high-quality mobile apps with large user bases. I focus on clean architecture, scalable solutions, and elegant UI implementation using Jetpack Compose.
 
-I currently lead the Android team at [Part Software Group](https://partsoftwaregroup.com/), where I help shape products and mentor developers.
+I currently lead the Android team at [Part Software Group](https://www.partsoftware.com/), where I help shape products and mentor developers.
 
 ---
 
